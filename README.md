@@ -30,40 +30,40 @@ Tenho 26 anos, comecei a estudar programação aos 12 anos com delphi (apesar de
   <picture>
     <source
       srcset="
-        https://github-readme-stats.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=dracula&bg_color=121218
+        https://git-readme-stats-siriusdev.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=dracula&bg_color=121218
       "
       media="(prefers-color-scheme: dark)"
       height="200em"
     />
     <source
       srcset="
-        https://github-readme-stats.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=transparent
+        https://git-readme-stats-siriusdev.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=transparent
       "
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height="200em"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=dracula&bg_color=121218"
+      src="https://git-readme-stats-siriusdev.vercel.app/api?cache_seconds=14400&count_private=true&username=pySiriusDev&show_icons=true&theme=dracula&bg_color=121218"
       height="200em"
     />
   </picture>
   <picture>
     <source
       srcset="
-        https://github-readme-stats.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=dracula&bg_color=121218&layout=compact
+        https://git-readme-stats-siriusdev.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=dracula&bg_color=121218&layout=compact
       "
       media="(prefers-color-scheme: dark)"
       height="200em"
     />
     <source
       srcset="
-        https://github-readme-stats.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=transparent&layout=compact
+        https://git-readme-stats-siriusdev.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=transparent&layout=compact
       "
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height="200em"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=dracula&bg_color=121218&layout=compact"
+      src="https://git-readme-stats-siriusdev.vercel.app/api/top-langs/?username=pySiriusDev&langs_count=10&theme=dracula&bg_color=121218&layout=compact"
       height="200em"
     />
   </picture>
