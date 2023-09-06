@@ -1,31 +1,3 @@
-## Prazer, me chamo Gabriel!
-
-Tenho 26 anos, comecei a estudar programação aos 12 anos com delphi (apesar de não utilizar mais a linguagem) e trabalho como desenvolvedor freelancer há 8 anos, com foco em Automações, RPAs e Bots para plataformas como Discord, Facebook, Instagram, Whatsapp, Telegram e algumas plataformas de trading como IQ Option. Há 3 anos comecei a estudar para ser desenvolvedor Full Stack, cujo atuo há 2 anos tendo experiência no desenvolvimento de Aplicações Web e Rest APIs. Apesar de ter certo domínio sobre as tecnologias com as quais trabalho, estou sempre com a mente aberta e disposto à aprender novas tecnologias.
-
-## Tecnologias / experiências
-
-**Python:**
-
-> É minha linguagem de maior domínio, cujo estudo há 9 anos e possuo experiência trabalhando com Bots e RPAs há 8 anos e Automações utilizando bibliotecas como **OpenCV** e **NumPy** há mais ou menos 3 anos. Também possuo experiência trabalhando com Rest APIs há 2 anos utilizando os frameworks **Django** e **Flask**, cujo estudo há 4 anos.
-
-**TypeScript / JavaScript:**
-
-> Estudo há 3 anos e possuo experiência trabalhando com Aplicações Web e Consumo de APIs há 2 anos utilizando principalmente os frameworks **React** e **Next.js**, mas também já desenvolvi algumas aplicações utilizando **Vue.js** e **Nuxt.js**.
-
-**HTML5 / CSS3 / SASS:**
-
-> Estudo também há 3 anos junto com TypeScript e JavaScript, apesar de geralmente utilizar Next.js nos meus projetos, consigo desensolver um website com HTML e CSS puro e, se necessário, JavaScript.
-
-**C#:**
-
-> Estudo há 6 meses com foco em RPAs e Rest APIs com **ASP.NET**.
-
-**Java:**
-
-> Estudo há 2 meses através de um curso de Desenvolvimento de Jogos que estou fazendo pela Danki Code, também estudei o básico sobre criação de Rest APIs utilizando **Spring**.
-
-##
-
 <p align="center">
   <picture>
     <source
@@ -74,6 +46,22 @@ Tenho 26 anos, comecei a estudar programação aos 12 anos com delphi (apesar de
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
       width="40"
       height="40"
     />
