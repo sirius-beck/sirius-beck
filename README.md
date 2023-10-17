@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <picture>
     <source
@@ -40,6 +41,7 @@
     />
   </picture>
 </p>
+-->
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -49,6 +51,30 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/SiriusBack/siriusback/main/icons/rust_white.svg"
+        media="(prefers-color-scheme: dark)"
+        alt="rust"
+        width="40"
+        height="40"
+      />
+      <source
+        srcset="https://raw.githubusercontent.com/SiriusBack/siriusback/main/icons/rust_black.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        alt="rust"
+        width="40"
+        height="40"
+      />
+      <img
+        src="https://raw.githubusercontent.com/SiriusBack/siriusback/main/icons/rust_white.svg"
+        alt="rust"
+        width="40"
+        height="40"
+      />
+    </picture>
   </a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
@@ -189,25 +215,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
       alt="electron"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
       width="40"
       height="40"
     />
